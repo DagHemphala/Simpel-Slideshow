@@ -1,0 +1,21 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+#slideshow {
+    position: relative; 
+	width: 980px;
+	height: 652px;
+	margin: 0 auto;  
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow img { 
+    position: absolute;
+	top: 10px; 
+    left: 10px; 
+	height: 652px; 
+}	
